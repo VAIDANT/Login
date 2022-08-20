@@ -1,3 +1,4 @@
+print("this program is made by Vaidant Jindal of class 9E")
 lp=["Hokage1","Hokage2","Hokage3","Hokage4","Hokage5","Hokage6","Hokage7"]
 lu=["Hashirama","Tobirama","Hiruzen","Minato","Tsunade","Kakashi","Naruto"]
 fp=str(input("Do you remember your password enter yes or no\n"))
